@@ -464,3 +464,13 @@ connecting blocks like this together makes up the forward & backward propagation
 
 applied deep learning is a very **empirical** process
 try out different values for parameters, iterate and find what works
+
+
+
+
+
+
+
+2020.08
+Marcus
+Written with Typora
